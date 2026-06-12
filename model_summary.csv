@@ -1,0 +1,2 @@
+best_k,n_epochs,lr,reg,test_RMSE,test_MAE,cv_RMSE_mean,cv_RMSE_std
+20,30,0.01,0.1,0.7849,0.6321,0.7891,0.0081
